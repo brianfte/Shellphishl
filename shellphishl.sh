@@ -1,5 +1,5 @@
 #!/bin/bash
-# ShellPhish v1.1
+# ShellPhishl v1.1
 
 trap 'printf "\n";stop;exit 1' 2
 
